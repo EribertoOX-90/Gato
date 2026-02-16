@@ -57,7 +57,6 @@ public class Gato extends JFrame implements ActionListener {
         setVisible(true);
     }
 
-    // PANEL MODERNO CON FONDO DEGRADADO Y LÍNEAS
     class ModernPanel extends JPanel {
         @Override
         protected void paintComponent(Graphics g) {
